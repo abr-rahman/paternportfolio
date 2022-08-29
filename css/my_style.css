@@ -1,0 +1,41 @@
+.bg_color{
+    background-color: #1E1E1E;
+}
+.font_color{
+    color: #cacaca;
+}
+.font_color:hover{
+    color: #1a0e0e;
+}
+.bg_color_menu{
+    background-color: #1f2838;
+}
+.color_text{
+    color: #cacaca;
+}
+.td_text{
+    color: #dad8d8!important;
+}
+.bg_color_update{
+    background: #314755;  /* fallback for old browsers */
+    background: linear-gradient(to bottom, #ffffff, #0aa3ff); 
+    background: -webkit-linear-gradient(to top, #4cb9e7, #adbbc4);  /* Chrome 10-25, Safari 5.1-6 */
+    
+}
+.color_form{
+    background-color: #3a4558;
+}
+.tr_color{
+    background: rgb(32 32 32 / 71%)!important;
+}
+.delete_btn{
+    background: black;
+    padding: 9px;
+    border-radius: 5px;
+    font-size: 17px;
+    color: #fff!important;
+}
+
+.per{
+    content: "\0025";
+  }
